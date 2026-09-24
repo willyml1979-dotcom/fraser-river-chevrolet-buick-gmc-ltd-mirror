@@ -1,0 +1,96 @@
+{
+  "dealership": "Fraser River Chevrolet Buick Gmc Ltd",
+  "generated_at": "2026-09-24T15:42:46",
+  "vehicle_count": 7,
+  "currency": "CAD",
+  "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
+  "vehicles": [
+    {
+      "name": "Used2019GMCSierra 1500SLT",
+      "stock": "26153A",
+      "color": "Summit White",
+      "url": "https://willyml1979-dotcom.github.io/fraser-river-chevrolet-buick-gmc-ltd-mirror/used/fecf3a32339b.html",
+      "source_url": "https://www.fraserrivergm.com/inventory/2019-gmc-sierra-1500-slt-XvmbRjV9Q4mvy93XxY77bAvdp",
+      "dealer_url": "https://www.fraserrivergm.com/inventory/2019-gmc-sierra-1500-slt-XvmbRjV9Q4mvy93XxY77bAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T03:44:44",
+      "price": 43265.0,
+      "price_currency": "CAD",
+      "condition": "used"
+    },
+    {
+      "name": "Used2021ChevroletSilverado 2500HDCustom",
+      "stock": "8777",
+      "color": "Summit White",
+      "url": "https://willyml1979-dotcom.github.io/fraser-river-chevrolet-buick-gmc-ltd-mirror/used/56bca19d790e.html",
+      "source_url": "https://www.fraserrivergm.com/inventory/2021-chevrolet-silverado-2500hd-custom-ewjDMyTnR6mf6XEKKm7fcwvdp",
+      "dealer_url": "https://www.fraserrivergm.com/inventory/2021-chevrolet-silverado-2500hd-custom-ewjDMyTnR6mf6XEKKm7fcwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T03:44:54",
+      "price": 42395.0,
+      "price_currency": "CAD",
+      "condition": "used"
+    },
+    {
+      "name": "Used2021GMCSierra 1500SLT",
+      "stock": "26144A",
+      "color": "Pacific Blue Metallic",
+      "url": "https://willyml1979-dotcom.github.io/fraser-river-chevrolet-buick-gmc-ltd-mirror/used/5e8e1a856dca.html",
+      "source_url": "https://www.fraserrivergm.com/inventory/2021-gmc-sierra-1500-slt-HUPeadYWQRehu1YxjQ46MAvdp",
+      "dealer_url": "https://www.fraserrivergm.com/inventory/2021-gmc-sierra-1500-slt-HUPeadYWQRehu1YxjQ46MAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T03:45:04",
+      "price": 39985.0,
+      "price_currency": "CAD",
+      "condition": "used"
+    },
+    {
+      "name": "Used2025ChevroletEquinoxAWD LT",
+      "stock": "8780",
+      "color": "Summit White",
+      "url": "https://willyml1979-dotcom.github.io/fraser-river-chevrolet-buick-gmc-ltd-mirror/used/39ba852189eb.html",
+      "source_url": "https://www.fraserrivergm.com/inventory/2025-chevrolet-equinox-awd-lt-0Ek5MVqSTTmp6MZwSoZ7dwvdp",
+      "dealer_url": "https://www.fraserrivergm.com/inventory/2025-chevrolet-equinox-awd-lt-0Ek5MVqSTTmp6MZwSoZ7dwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T03:45:34",
+      "price": 35895.0,
+      "price_currency": "CAD",
+      "condition": "used"
+    },
+    {
+      "name": "New2026BuickEnvisionPreferred",
+      "stock": "26084",
+      "color": "Quartz Blue Metallic",
+      "url": "https://willyml1979-dotcom.github.io/fraser-river-chevrolet-buick-gmc-ltd-mirror/new/f827ff944503.html",
+      "source_url": "https://www.fraserrivergm.com/inventory/2026-buick-envision-preferred-4x6r3M49TKqj7JvsfsSxrAvdp",
+      "dealer_url": "https://www.fraserrivergm.com/inventory/2026-buick-envision-preferred-4x6r3M49TKqj7JvsfsSxrAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T03:46:51",
+      "price": 46989.0,
+      "price_currency": "CAD",
+      "odometer_km": 24000,
+      "condition": "new"
+    },
+    {
+      "name": "New2026GMCSierra 1500Elevation",
+      "stock": "26009",
+      "color": "Titanium Rush Metallic",
+      "url": "https://willyml1979-dotcom.github.io/fraser-river-chevrolet-buick-gmc-ltd-mirror/new/3c4731e46279.html",
+      "source_url": "https://www.fraserrivergm.com/inventory/2026-gmc-sierra-1500-elevation-6cLaaAkZT2O5AxN5DFqtxgvdp",
+      "dealer_url": "https://www.fraserrivergm.com/inventory/2026-gmc-sierra-1500-elevation-6cLaaAkZT2O5AxN5DFqtxgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T03:47:01",
+      "price": 70194.0,
+      "price_currency": "CAD",
+      "odometer_km": 24000,
+      "condition": "new"
+    },
+    {
+      "name": "New2026GMCSierra 1500SLE",
+      "stock": "26137",
+      "color": "Sterling Metallic",
+      "url": "https://willyml1979-dotcom.github.io/fraser-river-chevrolet-buick-gmc-ltd-mirror/new/2a4558e8dab2.html",
+      "source_url": "https://www.fraserrivergm.com/inventory/2026-gmc-sierra-1500-sle-07wiLFjuRRa32Tw90ktRDgvdp",
+      "dealer_url": "https://www.fraserrivergm.com/inventory/2026-gmc-sierra-1500-sle-07wiLFjuRRa32Tw90ktRDgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T03:47:11",
+      "price": 69774.0,
+      "price_currency": "CAD",
+      "odometer_km": 24000,
+      "condition": "new"
+    }
+  ]
+}
