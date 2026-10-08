@@ -1,6 +1,6 @@
 {
   "dealership": "Fraser River Chevrolet Buick Gmc Ltd",
-  "generated_at": "2026-09-25T05:04:48",
+  "generated_at": "2026-10-08T14:36:59",
   "vehicle_count": 4,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -15,7 +15,9 @@
       "last_verified": "2026-09-24T03:44:44",
       "price": 43265.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "Used2021ChevroletSilverado 2500HDCustom",
@@ -27,7 +29,9 @@
       "last_verified": "2026-09-24T03:44:54",
       "price": 42395.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "Used2021GMCSierra 1500SLT",
@@ -39,7 +43,9 @@
       "last_verified": "2026-09-24T03:45:04",
       "price": 39985.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Quesnel",
+      "province": "BC"
     },
     {
       "name": "Used2025ChevroletEquinoxAWD LT",
@@ -51,7 +57,9 @@
       "last_verified": "2026-09-24T03:45:34",
       "price": 35895.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Quesnel",
+      "province": "BC"
     }
   ]
 }
