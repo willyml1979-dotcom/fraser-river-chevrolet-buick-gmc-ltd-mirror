@@ -1,6 +1,6 @@
 {
   "dealership": "Fraser River Chevrolet Buick Gmc Ltd",
-  "generated_at": "2026-10-10T01:18:18",
+  "generated_at": "2026-10-10T01:20:55",
   "vehicle_count": 6,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -68,7 +68,7 @@
       "url": "https://willyml1979-dotcom.github.io/fraser-river-chevrolet-buick-gmc-ltd-mirror/new/f827ff944503.html",
       "source_url": "https://www.fraserrivergm.com/inventory/2026-buick-envision-preferred-4x6r3M49TKqj7JvsfsSxrAvdp",
       "dealer_url": "https://www.fraserrivergm.com/inventory/2026-buick-envision-preferred-4x6r3M49TKqj7JvsfsSxrAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T01:14:53",
+      "last_verified": "2026-10-10T01:19:27",
       "price": 46989.0,
       "price_currency": "CAD",
       "odometer_km": 24000,
